@@ -5,7 +5,7 @@ box-style:border-box;
 }
 
 header{
-background-image:linear-gradient(rgba(22,33,44,0.4),rgba(22,33,44,0.4)),url("c.jpg");
+background-image:linear-gradient(rgba(22,33,44,0.4),rgba(22,33,44,0.4)),url("background.jpg");
 background-position:center-center;
 background-size:cover;
 background-repeat:no-repeat;
